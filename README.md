@@ -17,3 +17,6 @@ In the final phase, the game will be enhanced by limiting the number of turns th
 
 ## Usage
 To play the game, simply run the JavaScript file containing the game code using Node.js. Follow the prompts to input your guesses and receive feedback from the program.
+
+## Author
+Created by Isadora Mutarelli
